@@ -23,7 +23,7 @@ repository               : "xuanmingbi/xuanmingbi.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Ming"
+  name             : "Bi Xuanming (Ming)"
   # pronouns         : # example: "she/her"  
   # bio              : ""
   location         : "Hong Kong SAR"
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
