@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuanming's Academic Pages"
+title: "Personal Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
