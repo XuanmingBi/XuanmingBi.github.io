@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+title: "Cross-domain facial expression recognition through reliable global-local representation learning and dynamic label weighting"
+permalink: https://doi.org/10.3390/electronics12214553
+date: 2023
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://mdpi-res.com/d_attachment/electronics/electronics-12-04553/article_deploy/electronics-12-04553.pdf?version=1699275258'
+citation: 'Gao, Y.; Cai, Y.; Bi, X.; Li, B.; Li, S.; Zheng, W. Cross-Domain Facial Expression Recognition through Reliable Global–Local Representation Learning and Dynamic Label Weighting. Electronics 2023, 12, 4553. https://doi.org/10.3390/electronics12214553'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
