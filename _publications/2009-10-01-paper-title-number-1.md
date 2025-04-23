@@ -1,12 +1,8 @@
 ---
 title: "Cross-domain facial expression recognition through reliable global-local representation learning and dynamic label weighting"
-collection:  
-category:  
 permalink: https://doi.org/10.3390/electronics12214553
-excerpt: ' '
 date: 2023-11-06
 venue: 'Electronics Journal on Arti cial Intelligence'
-slidesurl: ' '
 paperurl: 'https://mdpi-res.com/d_attachment/electronics/electronics-12-04553/article_deploy/electronics-12-04553.pdf?version=1699275258'
 citation: 'Gao, Y.; Cai, Y.; Bi, X.; Li, B.; Li, S.; Zheng, W. Cross-Domain Facial Expression Recognition through Reliable Global–Local Representation Learning and Dynamic Label Weighting. Electronics 2023, 12, 4553. https://doi.org/10.3390/electronics12214553'
 ---
